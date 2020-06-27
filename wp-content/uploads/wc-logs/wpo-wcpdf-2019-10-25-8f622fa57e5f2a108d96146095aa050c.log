@@ -1,5 +1,0 @@
-2019-10-25T02:53:17+00:00 CRITICAL Fatal error: Call to undefined method WPO\WC\PDF_Invoices\Documents\Packing_Slip::get_cart()
-2019-10-25T09:00:07+00:00 CRITICAL Fatal error: Call to a member function get_meta() on array
-2019-10-25T09:00:16+00:00 CRITICAL Fatal error: Call to a member function get_meta() on array
-2019-10-25T13:49:10+00:00 CRITICAL Fatal error: Call to a member function get_formatted_billing_address() on null
-2019-10-25T14:05:41+00:00 CRITICAL Fatal error: Call to a member function get_product_id() on array
